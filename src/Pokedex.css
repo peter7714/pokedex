@@ -1,0 +1,9 @@
+/* .pokedex {
+    display: flexbox;
+    justify-content: space-around;
+} */
+
+.pokedex-title {
+    text-align: center;
+    color: #bbb;
+}
